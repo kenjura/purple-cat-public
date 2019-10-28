@@ -1,3 +1,2 @@
-This is the central repo for Purple Cat Games' public content.
+# Initial page
 
-<https://purplecat.games/>
