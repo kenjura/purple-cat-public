@@ -1,4 +1,3 @@
-# TOS
+# Campaigns
 
-TOS homepage
-
+Campaigns homepage.

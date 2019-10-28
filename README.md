@@ -1,4 +1,0 @@
-# Initial page
-
-* [TOS](tos/)
-
