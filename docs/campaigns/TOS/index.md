@@ -27,15 +27,11 @@ _A long time in the future, in this very galaxy..._
 + [Phobos](./characters/Phobos.md)
 + [Zelena Andromedae](./characters/Zelena%20Andromedae.md)
 
-## Supporting
-+ Unnamed leisure ship captain
-+ Hamster-ball alien
-
 ## Allies
 
 ### Tion
-+ [Astrid Ferris]()
-+ [Marcus Cray]()
++ [Astrid Ferris](./characters/Astrid%20Ferris.md)
++ [Marcus Cray](/characters/Marcus%20Cray.md)
 
 
 
@@ -51,15 +47,12 @@ _A long time in the future, in this very galaxy..._
 | 5         | TOS1-2a    | Starlighter               | 2019-06-16 | 10           |
 | 6         | TOS1-2b    | Starlighter               | 2019-06-23 | 10           |
 | 7         | TOS1-3a    | They Mostly Come at Night | 2019-06-30 | 10           |
-
-## Reboot
-| Session # | Session ID | Episode Name              | Date       | Level/BP/etc |
-| --------- | ---------- | ------------------------- | ---------- | ------------ |
 | 8         | TOS2-1a    | Presidia                  | 2019-07-14 | 10           |
 | 9         | TOS2-1b    | Presidia                  | 2019-07-21 | 10           |
 | 10        | TOS2-2a    | Event Horizon             | 2019-08-04 | 10           |
 | 11        | TOS2-2b    | Event Horizon             | 2019-09-08 | 10           |
 | 12        | TOS2-2c    | Event Horizon             | 2019-09-15 | 10           |
-| 13        | TOS2-3a    | (Earth Episode)           | 2019-10-13 | ??           |
-| 14        | TOS2-3b    | (Earth Episode)           | 2019-10-20 | 16 (33 BP)   |
+| 13        | TOS2-3a    | Earth Is Our Home         | 2019-10-13 | ??           |
+| 14        | TOS2-3b    | Earth Is Our Home         | 2019-10-20 | 16 (33 BP)   |
+| 15        | TOS2-3c    | Earth Is Our Home         | 2019-11-03 | tbd          |
 
