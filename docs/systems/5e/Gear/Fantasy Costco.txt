@@ -1,0 +1,91 @@
+{|
+!Item !!Cost !!Description
+|-
+|Alchemist’s Ring  ||500gp  ||When the wearer of this ring imbibes a healing potion, they receive 1d6 additional healing.
+|-
+|The Anti Gravity Sphere   ||500 GP  ||
+A small fist-sized glass ball filled with a silvery smoke. When the sphere is destroyed, it disables the effect of gravity on everything in a 30ft radius.
+|-
+|The Champion’s Belt   ||800 GP  ||
+This ornate belt is given to someone who has bested all opponents in a test of strength.  Once per day the wearer may substitute their Strength score for their Wisdom or Charisma when making a stat check.
+|-
+|Haunted Doll  ||100 GP  ||This doll is very creepy. If its owner ever fails a third death save, the doll will take the hit instead, and will die in place of its owner.
+|-
+|Shield of Heroic Memories  ||1200 GP  ||This perfectly round silver shield initially has a mirror finish. As a hero takes it into battle it remembers the enemies encountered, gaining a +2 to AC on any subsequent battle with creatures of that type. The events of the battle are intricately engraved onto the shield’s surface (which has a seemingly endless capacity for detail).
+
+The bearer of the shield may also attempt to recount past battles (real or imagined) to the shield. Upon a DC 10 charisma check or DC 15 bluff check, the shield confers a +2 AC against the creatures described in the tall tales.
+
+3 failed attempts at recounting stories cause the shield to be cleared of all of its memories. The engravings disappear. It reverts to its mirror finish. All bonuses are lost.
+|-
+|The Glutton’s Fork   ||750 GP  ||
+Once a day this fork will allow the user to eat any non-magical item they can fit in their mouth and gain 2d6 points of health. Just tap the fork on the item and it will turn edible.
+|-
+|Phone-a-friend scrying bones   ||500 GP  ||
+Once per day, can be used to ask a yes, no, or maybe question to the fates.
+There are three bones carved into people with happy faces and sad faces.
+All happy faces means yes, all sad faces mean no, anything in between means maybe.
+The DM can respond or choose not to answer.
+|-
+|The Nit Picker   ||900 GP  ||
+Physical Description: Resembles a miniature garden gnome that carries lock picking tools in his hands. When not in use, looks like a 4" inch tall statue.
+* Use: Twice daily, can be placed in front of a locked object to unlock it, functioning as the spell “Knock”. At this point, the statue comes to life in order to pick the lock. After the lock is picked, or if he is unable to open it, reverts back to an inanimate statue.
+* Side Effects: While picking the lock, the Nit Picker critiques any or all members of the party on their recent performance in the campaign. Nothing escapes the critical eye of the Nit Picker, no matter how small the perceived offense.
+|-
+|Plastic Sheriff Badge   ||500 GP  ||
+Adds +3 to bluff checks when impersonating a person of authority.
+|-
+|Flaming Poisoning Raging Sword of Doom  ||60,000 GP  ||
+A sword with a gigantic blade, wreathed in flames and with a crooked, oozing scorpion’s stinger affixed to its point. Deals an extra 20 melee damage.
+|-
+|No-Sodium Salt Shaker:   ||400 GP  ||
+this might look like a simple salt shaker, but the contents have been bewitched to turn a bright shade of pink if sprinkled over food or drink that contains poison!
+|-
+|Diadem of Fabulous Truthiness  ||900 GP  ||
+Once per long rest, you can channel your terminal fabulosity into this simple circlet and cast a free Zone of Truth, limited to a single target rather than a radius. Confound your enemies, emasculate your friends, and free up your cleric’s spell slots so he can do some actual healing. 
+|-
+|The Cross Bow  ||1500 GP  ||
+*Description: An ill-conceived and short-lived partnership between Elven bowyers and Dwarven engineers resulted in a crossbow that should have just remained a dumb idea. The cross bow combines together the beauty of Elven woodwork, the prowess of Dwarven design, and the burning hatred these two races felt about being forced to work together.
+*In-Game Action: The Cross Bow acts as a normal crossbow, doing 1d8+1 damage per bolt.
+As part of an attack action, the user may attempt tap into the seething hatred imbued in the Cross Bow by insulting the Cross bow (making a Charisma/Intimidation check D.C 12.)
+* If successful in insulting the bow, the Cross Bow burns with rage and shoots a flaming bolt doing normal damage plus an additional 1d12 fire damage. If the check fails, the Cross bow sullenly refused to work for the remainder of the current fight.
+|-
+|Liar's Pants ||800 GP  ||
+* Description: If you've got the cojones to lie to the face someone that could most definitely kill you and you need some extra support, look no further than the Liar's(tm) Pants. Guaranteed to be 100% safe. Trust me. (Seriously, would I lie to you?)
+* In-Game Action: While wearing the Liar's(tm) Pants, you can choose to take 1d4 fire damage (as the pants begin to smolder) and reroll a failed bluff check. If you fail this reroll, the Liar's(tm) Pants burst into flame, causing 1d6 ongoing fire damage until you take them off or otherwise extinguish the flame.
+|-
+|Messenger Bird  ||400 GP  ||A small blue bird capable of understanding common. Once per day, the owner may send the bird out of the cage with a message to convey to everyone who "follows" it, and returns with their responses. The bird, however, does not have much of a memory and cannot remember more than 140 characters at a time. The owner can ask it a question or give it a statement, and it will return periodically throughout the day, giving responses as they appear. The bird appears to travel through magical means to another plane of existence to gather the responses, and returns back to his cage when his duty is done.
+|-
+|Grand Oculus of Ostensible Enlightenment  ||800 GP  ||A pair of glasses that, when the command word is spoken, can give the wearer information on any sort of common knowledge about a subject, such as a map of the land, information about a prominent figure, or the history of a recognizable place or object. The glass will gather information from the minds of nearby sentient beings and display it to the user. However, since this information is pulled from what people believe to be true, can occasionally give misinformation and common misconceptions as if they were absolute fact. The Glass can be used three times per day.
+|-
+|Chillvine Incense  ||1000 GP  ||
+This ornate censer emblazoned with divine symbols actually contains inside of it a special mixture of plants and herbs instead of prayer incense. When lit, the smoke permeates the area, filling a 20ft radius with a pleasant scent. Creatures in the area must succeed on a DC17 Constitution Save or be affected by the spells Zone of Truth and Calm Emotions for the duration they are in the affected radius. The incense lasts one hour unless snuffed out. Once one hour of incense has been burned, it can be refilled by succeeding a DC15 Nature check and several hours of time gathering plants to refill the box.
+|-
+|Instant Boulder  ||1000 GP  ||A heavy stone about the size of a baseball and perhaps twice the weight. It can be thrown, as one might expect; upon impact, it magically transforms into its true form: a 5-foot-diamater granite boulder weighing 5 tons. This transformation is permanent; the boulder is the true form, and the throwable ball was a temporary transmutation. If the ball strikes a creature, it inflicts 16d6 damage, and they are pinned until they pass a Strength save of DC 17 (others can assist them). If the surface is sloped, the creature isn't pinned, as the ball begins to roll, causing 16d6 damage to all in its path (Reflex DC 15 for half), and more damage the further and faster it rolls (DM adjudication).
+|-
+|Tyche's Coin  ||1500 GP  ||This gold coin shows the two faces of Tyche, the mother of Tymora and Beshaba. Once every 24 hours, you can replace any d20 roll with a coin flip: on heads, you critically succeed, and on tail, you critically fail.
+|-
+|Scuttle Buddy  ||500 GP  ||This wondrous work of gnomish artifice takes the form of a large beetle made of fine brass clockwork. It is powered by winding--a full charge takes 3 rounds, and gives the beetle 10 rounds worth of action (each of which can be exchanged for 10 minutes of idleness). The beetle understands instructions with an Int score of 8; it remembers what it sees and hears, and can describe said memories in simple terms (although its voice is very quiet, and must be held to the ear to be heard). It can be used as a scout, or spy, or trap probe (though it weighs only a few ounces). It has 1 hit point.
+|-
+|Wand of Switcheroo  ||1300 GP ||Despite taking the form of a wand, this item does not require magical ability to wield. Once per day, you may point it at any creature within 120-ft (if you have clear line of sight), and instantly swap positions with them via magical teleportation. If the subject is unwilling, they are allowed an opposed Charisma save to resist.
+|-
+|Lens of Straight Creepin'  ||700 GP  ||These lenses are enchanted to show the wearer the footsteps of everyone who has passed through the area within the last 24 hours. Each unique individual is assigned an arbitrary color, so it is possible to distinguish a particular trail from another, and the exact shape of the shoes or feet are outlined, but no additional identifying information is given. Spells such as "Pass Without Trace" prevent the wearer from seeing tracks, but normal, nonmagical means of concealing a trail do not.
+|-
+|Pocket Spa  ||5000 GP  ||Taking the form of an ornately-carved wooden puzzle box 4 inches on each side, this wondrous invention can be magically transformed (if one knows the solution), taking on its true form: a 10-ft cubical wooden hut with a single door and no windows. The interior contains the following:
+* A large, single-person soaking tub with soap, bubbles, a bath pillow, and several towels. The water is constantly at a nice, hot temperature.
+* A comfortable wooden reclining chair.
+* A magical coal pit which can quickly heat the room to sauna temperatures, or quickly return it to room temperature.
+* A decanter of endless, cool water.
+* A small metal chest, which magically keeps it contents cool and fresh. Once per day, it produces a tasty sandwich and some seasonal fruit.
+
+Nothing can be removed from the hut, except things you bring inside. The hut can only be collapsed into its compact form if no foreign creatures or objects are inside it. It may be activated once per day.
+|-
+|Mystery Powder  ||1000 GP  ||This magical powder does something amazing when sprinkled on the right object, or when the right word is spoken, or...well, nobody knows. It's a mystery.
+|-
+|Arcane Trickster's Glove	||1500 GP	||This glove turns your “Mage Hand” spell invisible, allowing you to perform stealthy actions, such as pickpocketing, slight-of-hand, or other acts of remote legerdemain. For these checks, use your Arcana score, instead of Stealth or Slight of Hand.
+|-
+|Glasses of Lightning Comprehension	||600 GP	||Allows you to read and absorb written information in a language you understand ten times as fast.
+|-
+|Jar of Bees	||200 GP	||A glass jar that, when broken, conjures a swarm of 1,000 bees that acts autonomously; unsummoned after 1 minute.
+|-
+|Ring of the Grammarian	||800 GP	||Once per day, you may alter a spell you know as you cast it, changing the spell's name by one letter (modifying one letter into another, adding one letter, or removing one letter), thus changing the spell's effect (per DM adjudication).
+|}

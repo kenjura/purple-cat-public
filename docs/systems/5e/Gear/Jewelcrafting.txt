@@ -1,0 +1,36 @@
+
+==Lacrimae==
+A popular form of magic item in drow cities, these jewels--so named for their teardrop shape--operate on the principle that their user can provide the magical motive force, unlike normal magic items which either contain a fixed, expendable amount of energy, or contain a fragment of the soul of their creator (an expensive proposition). In other words, lacrimae are much less expensive to produce than traditional magic items, but only function if the user possesses their own magical power to make their work.
+
+Drow cities enjoy a permanent abundance of ''faerzress'', which can power low-level lacrimae, such as the orbs that light their streets and indoor places, and their nobles tend to have demonic taint, providing an abundance of magical power, even if they have no other magical ability or training. Typical humans would not find most lacrimae useful, but those with magical talents can easily make use of them, and get more magical bang for their buck, so to speak.
+
+Using a lacrima either requires the expenditure of spell slots (or Mana/Vitae), or the "reservation" of slots (or Mana/Vitae). In the latter case, "reserving a spell slot" means that you cannot use that slot to cast while the lacrima is in your possession, but by reserving the slot, you are powering the lacrima. If you remove it from your possession, the slot is restored to you (after the next long rest), but the lacrima is now unpowered and useless.
+
+Note for users of Mana or Vitae: reserving a slot of level X means your Mana/Vitae maximum is reduced by X. Costing a level X slot is equivalent to costing X Mana/Vitae.
+
+;List of Lacrimae:
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect  !!Requirements
+|-
+|Jewel of Light  ||1 (common)  ||500 GP  ||A tiny glass bead, usually held in some sort of binding for easy handling.  ||Produces light similar to a torch. Always active, so it's wise to keep a sheath of some sort to hide the glow when necessary.  ||Reserves no spell slots, but requires magical ability.
+|-
+|Mage Globe  ||1 (minor)  ||1,000 GP  ||An orb of glass about one foot in diameter, typically mounted in a frame.  ||Produces an even spread of light in a 60 foot radius, without creating a blinding point in the center.  ||Reserves a level 1 slot. More typically used in a drow structure.
+|-
+|Rosetta Pebble  ||1 (minor)  ||1,000 GP  ||A tiny shard of multi-colored glass, typically mounted to an earring or other contraption allowing the shard to be placed close to one's ear.  ||Wearer can understand any audible speech, or written language, as the jewel whispers the translation into her ear.  ||Reserves a level 1 slot
+|-
+|Bauble of Flames  ||1 (minor, consumable)  ||100 GP  ||A marble-sized bead of glass, uninteresting at rest, but when charged, it glows with fiery purpose.  ||Once charged, remains stable until shattered, thrown, or damaged, creating a 15-ft burst of 3d6 fire damage. It is possible to combine multiple baubles into a single attack. ||Expends a level 1 slot
+|-
+|Lightning Bottle  ||3 (minor, consumable)  ||300 GP  ||A small orb of glass, plain at rest, but when charged, filled with an endlessly-rebounding lightning bolt that casts light like a torch and buzzes with destructive potential.  ||Once charged, remains stable until thrown or damaged, which creates three lightning bolts inflicting 2d6 damage each in a line 5-ft by 50-ft (each travels in a path you specify).  ||Expends a level 2 slot
+|-
+|Frost Bomb  ||5 (minor, consumable)  ||500 GP  ||An orb of glass about 6 inches in diameter, uninteresting at rest, but when charged, aglow with pale blue light, and achingly cold to the touch.  ||When shattered or damaged, produces a 30-ft burst inflicting 6d8 cold damage plus chilled (Con half damage, no chill effect).  ||Expends a level 3 slot
+|-
+|Charm Bangle  ||1 (minor)  ||1,000 GP  ||A collection of tiny shards of colorful glass, artfully bound into an array of some sort, worn as a neckpiece, head adornment, or other highly-visible arrangement.  ||A minor ''charm'' effect grants you advantage to all skill checks to influence others, and just generally makes you charming as all hell.  ||Reserves a level 1 slot
+|-
+|Lens of Arcana  ||1 (minor)  ||1,000 GP  ||A finely-crafted and polished lens, likely contained in an enclosure of some kind for easy handling.  ||Allows the user to ''Detect Magic'' at will by holding the lens to their eye.  ||Reserves a level 1 slot
+|-
+|Jewel of Protection, lesser  ||1 (major)  ||2,000 GP  ||A small medallion of glass, typically shaped into some form suggesting protection, such as a shield.  ||If unarmed, grants a +3 bonus to Armor Class.  ||Reserves a level 1 slot.
+|-
+|Jewel of Protection, greater  ||5 (major)  ||10,000 GP  ||A grander version of the Lesser Jewel of Protection  ||Grants a +5 bonus to Armor Class  ||Reserves a level 3 slot.
+|-
+|Jewel of Protection, superior  ||10 (major)  ||20,000 GP  ||An even grander version of the Lesser Jewel of Protection  ||Grants a +7 bonus to Armor Class  ||Reserves a level 5 slot.
+|}

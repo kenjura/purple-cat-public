@@ -1,0 +1,45 @@
+
+==Vestments==
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Mageweave Vestments  ||1 (major)  ||2,000 GP  ||Vestments woven of strands of individually-enchanted thread, glistening with many colors.  ||Grants DR 5 to magical damage, and a bonus spell slot per day of your highest level (or the equivalent Mana/Vitae).
+|-
+|Flameweave Vestments  ||2 (major)  ||4,000 GP  ||Silk, so treated to withstand great heat, gains new and powerful traits when burned in intense magical fire. Flameweave is naturally white, but is usually died fiery hues.  ||Grants DR 10 (fire), and you gain your proficiency bonus as added damage to any magical fire attack you make.
+|-
+|Frostweave Vestments  ||2 (major)  ||4,000 GP  ||Wool, when subjected to intense magical cold, hardens into a dense, protective shell. Frostweave is less pliable even than ordinary wool, but offers sturdy protection.  ||Grants DR 10 (frost) and hardness 5 against non-magical attacks, and you gain your proficiency bonus as added damage to any magical fire attack you make.
+|-
+|Runecloth Vestments  ||3 (major)  ||6,000 GP  ||Vestments made of thick cloth of many layers, into which foil runes were painstakingly beaten. Thicker than wool and twice as heavy, this cloth offers excellent protection but some slight hindrance to spellcasting.  ||Grants DR 10 against magic, and DR 5 against non-magical attacks, but you lose a spell slot of your highest level (or the equivalent Mana/Vitae).
+|}
+
+==Cloaks, capes, and coats==
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Cloak of Fog  ||3 (minor)  ||3,000 GP  ||A cloak of fog-grey, sturdy cloth.  ||Once per encounter, as a free action or a reaction, you may create a concealing fog in a close burst of 0-3 squares. The fog disperses after 5 rounds.
+|-
+|Cloak of Arachnida  ||6 (minor)  ||6,000 GP  ||A cloak of white spider silk (optionally dyed) with a web-like structure of criss-crossing threads.  ||Wearer is immune to spider venom and webs (magical or mundane). Spiders treat wearer as friendly. Wearer can climb along webs at full speed. Once per day each, wearer can cast [[Spider Climb]], [[Web]], and a spell that summons a giant wolf spider for 10 minutes.
+|-
+|Cloak of the Bat  ||7 (minor)  ||7,000 GP  ||A cloak of matte black with matching cowl. Cuts and imposing figure.  ||Gain advantage to Stealth checks in dimness or darkness. Can turn any fall into a glide (5 squares horizontal per 10-ft drop) with a safe landing.
+|-
+|Cape of the Mountebank  ||5 (minor)  ||5,000 GP  ||A half-cape in bold red, as a toreador might wear.  ||Once per short rest, can be used as a bonus action or a reaction to teleport the wearer to a location they can see within 30 ft, leaving behind a harmless puff of smoke that soon disperses.
+|-
+|Cloak of Displacement  ||10 (minor)  ||10,000 GP  ||Made from the fur and hide of a displacer beast, this purple cloak makes it difficult to look at you, distorting your image and position.  ||Each time you're attacked, you have a 50% chance to simply not be there. This may occur only once per round, and up to 3 times per long rest.
+|-
+|Cloak of Etherealness  ||15 (exceptional)  ||60,000 GP  ||A cloak of plain, gray wool.  ||As a move action, you may enter or exit the Ethereal Plane. You may remain in the ethereal plane for up to 100 non-contiguous rounds per day. Entering the ethereal has a Recharge of 33%.
+|}
+
+==Miscellaneous==
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Bag of Holding  ||2 (minor)  ||2,000 GP  ||A simple brown sack, with a seeming capacity of about a gallon.  ||The bag holds up to 1,000 lbs of gear. Each item must be able to pass through the 6-inch-wide opening. Retrieving a specific item takes 1d3 rounds.
+|-
+|Handy Haversack  ||5 (minor)  ||5,000 GP  ||A lightweight leather satchel with straps for wearing on your shoulder or back.  ||Extradimensional space holds 10,000 lbs of gear; each item must be able to pass through a foot-wide opening. Retrieving a specific item is a move action.
+|-
+|Portable Hole  ||8 (minor)  ||8,000 GP  ||A circular sheet of impossibly black, smooth cloth, 5 feet in diameter, weighing 5 lbs.  ||When pressed against a solid surface, the hole lives up to its name, allowing anything to pass in either direction, without harming the wall. Can be easily removed, but only from the side on which it was placed. Can be used once per long rest.
+|-
+|Flying Carpet  ||15 (major)  ||30,000 GP  ||A luxurious carpet, optionally bedecked with silken pillows for comfort.  ||The carpet flies at the mental whim of its rider, at speeds up to 60 miles per hour (tactical: 10 squares). Riders are magically held in place against normal wind and g-forces.
+|}

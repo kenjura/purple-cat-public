@@ -1,0 +1,86 @@
+
+==Exotic Armor==
+Each of the below items is based on leather, studded leather, scale mail, or hide armor (your choice, where reasonable), and includes all properties of the base armor in addition to the described abilities.
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Chimeric Armor  ||2 (major)  ||4,000 GP  ||Made from the hide of the chimera, this primal armor would suit a warrior at home in nature.  ||Grants DR 10 (fire, lightning, acid).
+|-
+|Wyvern Armor  ||3 (major)  ||6,000 GP  ||This drake-scale armor is lightweight, flexible, and seemingly hard as steel.  ||Grants hardness 5 and resistance to poison.
+|-
+|Rust Monster Armor  ||5 (major)  ||10,000 GP  ||The hide of a Rust Monster makes for a strange, but effective defense against iron weapons.  ||When you are struck by an iron weapon, it must pass a Constitution save, DC 15, or be rusted (inflicts half damage, including to the attack that just hit you). A rusted weapon that hits you again and fails another save is destroyed. Magic weapons resist this damage.
+|-
+|Were-fur Armor  ||7 (major)  ||14,000 GP  ||The hide of a lycanthrope has interesting magical properties.  ||Gain Fast Healing 10% while worn. Also, as a bonus action, you may cause the armor to merge into your unarmored form, or call forth your armor from said merge, fully donned.
+|-
+|Mail of the Hydra  ||10 (major)  ||20,000 GP  ||This scale mail is formed of hydra scales, and its mantle includes two heads, one on each shoulder. On command, they join you in speech, repeating everything you say, allowing you to cast multiple spells at the same time.  ||Once per encounter, you may cast three of the same spell simultaneously, at the cost of three spell slots.  Additionally, you regrow any limbs or heads severed while wearing the armor in 3 rounds, assuming you are alive during the regeneration process. You may not act if you have no head(s).
+|-
+|Gorgon Mail  ||12 (major)  ||24,000 GP  ||This mail is made from the scales of a gorgon. Those beholding it are slowly turned to stone.  ||On turn start, enemies within 5 squares must pass a Constitution save, DC 16, or be petrified (Con ends, DC 16). They may choose to avert their eyes, and thus are in no risk of petrifying, but any attacks they make against you are treated as if you were invisible.
+Additionally, you are immune to petrification.
+|-
+|Gargoyle Hide  ||15 (major)  ||30,000 GP  ||The hide of a gargoyle can turn between pliable skin and hard stone at your command.  ||Whenever you are struck for damage, you may choose to suffer 10% of your max HP instead. Also, you may turn into a statue or resume your normal form as a free action. (As a statue, you have hardness 20, but you cannot take physical actions)
+|-
+|}
+
+TBD:
+* Feathered Mail
+* Hide of the Chaos Beast
+* Dragon hide
+
+==Footwear==
+Regardless of the name of the item, each pair of footwear can be of any desired type (boots, sandals, whatever) within reason.
+
+Most of these items can be converted into horseshoes (or other bestial varieties) at twice the usual cost.
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Walking Boots  ||0 (common)  ||1 SP  ||These boots were made for walking.  ||And that's just what they'll do.
+|-
+|Slippers of Water-walking  ||1 (minor)  ||1,000 GP  ||  ||You may walk on water.
+|-
+|Boots of Impact Absorption  ||2 (minor)  ||2,000 GP  ||Mostly ordinary, with extra-thick soles.  ||These boots absorb up to 50 points of falling damage. When you successfully kick an enemy with these boots, you may choose to add some or all of the stored damage to your strike, inflicting half the amount as bonus bludgeoning damage, and converting the other into a push (1 ft per damage point).
+|-
+|Load-bearing Boots  ||3 (minor)  ||3,000 GP  ||Hefty workman's boots.  ||Your carrying capacity is multiplied by 5.
+|-
+|Boots of Levitation  ||3 (major)  ||6,000 GP  ||Their soles never seem to quite come into contact with the ground.  ||You always have perfect traction while wearing these boots. Additionally, you may levitate for up to 10 rounds per long rest (can raise or lower yourself up to 20 ft/rd, cannot move horizontally without outside leverage). Rounds need not be contiguous.
+|-
+|Boots of Speed  ||5 (major)  ||10,000 GP  ||   ||Gain 30 ft to your movement speed and advantage to Initiative checks.
+|}
+
+More to come....
+
+
+==Bracers==
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Bracer of Armor  ||1 (minor)  ||1,000 GP  ||Brown leather bracer with a metal button.  ||When the button is pressed (free action), you can store your currently-worn armor in the bracer, or recall stored armor, such that it is fully donned and perfectly fit to you. Can include a shield in the set.
+|-
+|Bracer of Armor, Greater  ||5 (minor)  ||5,000 GP  ||Black leather bracer with 5 differently-colored gemstone buttons.  ||As a ''Bracer of Armor'', but you can store 5 different armor sets.
+|-
+|Armsman's Bracer  ||1 (minor)  ||1,000 GP  ||Brown leather bracer with a metal button.  ||When the button is pressed (free action), you can store your currently-held weapon, or recall a stored weapon into your hand. Can store two weapons if dual-wielding.
+|-
+|Armsman's Bracer, Greater  ||5 (minor)  ||5,000 GP  ||Black leather bracer with 5 differently-colored gemstone buttons.  ||As an ''Armsman's Bracer'', but you can store 5 different weapons.
+|-
+|Bracer of Flame  ||1 (major)  ||2,000 GP  ||Bracer fitted with a metal-sculpted dragon's head, its mouth facing outward (toward the hand).  ||At a spoken command word (such as "flame on!") the bracer emits a gout of flame, either a 15-ft cone inflicting 2d6 fire damage, or a 60-ft ray inflicting 4d6 fire damage. Can be used once per short rest.
+|-
+|Bracer of Flame, Greater  ||5 (major)  ||10,000 GP  ||Bracer fitted with a metal-sculpted dragon's head, its mouth facing outward (toward the hand).  ||As a ''Bracer of Flame'', but inflicts d8s instead of d6s, and is usable at will. Additionally, it can create a ''Fireball'' or ''Flame Arrow'' once per short rest.
+|-
+|Bracer of Shielding  ||2 (minor)  ||2,000 GP  ||Metal-plated bracer with an emblem of a shield.  ||As a free action, at your mental command, the bracer projects a field of force equivalent to a large shield.
+|-
+|Bracer of Archery  ||2 (minor)  ||2,000 GP  ||Tight-fitting bracer with a hook for holding a taut bowstring.  ||Acts as an ''Armsman's Bracer'' for a bow or similar ranged weapon. Additionally, it can summon a single stored arrow/bolt/etc as a free action; it can store up to 50 arrows or bolts.
+|-
+|}
+
+More to come...
+
+
+==Miscellaneous Leather Items==
+
+{|
+!Item  !!Level  !!Cost  !!Description  !!Effect
+|-
+|Reins of Summoning  ||5 (minor)  ||5,000 GP  ||They seem like ordinary reins...  ||At a command word, you summon a mount bonded to the reins. The mount appears at a designated location within short range. You may return the mount from whence he came as a standard action.
+|}

@@ -1,0 +1,1 @@
+What if there is a universal list of schools...but each class has their own spells/powers within them?
